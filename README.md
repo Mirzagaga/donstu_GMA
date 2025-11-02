@@ -1,2 +1,2 @@
-print('drdrdr')
-print("hfhfhfh")
+donstu_GMA
+Guseynov Mirzaga Azizovich
